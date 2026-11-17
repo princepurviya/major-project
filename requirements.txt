@@ -1,0 +1,11 @@
+google-genai
+mcp
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+python-dotenv
+streamlit
+duckdb
+openpyxl
